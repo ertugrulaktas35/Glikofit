@@ -17,5 +17,4 @@ Glisemik indeks bazlı kalori takibi ve kan şekeri yönetimine yönelik gelişt
 ## Veri Tabanı
 Supabase üzerinde 12 tabloluk ilişkisel şema, SQL view'lar ve stored function'larla (fuzzy_food_search, estimate_gi_from_macros) kurgulanmıştır.
 
-## Durum
-Geliştirme aşamasında
+
